@@ -1,4 +1,3 @@
-# MADE BY AVALANCHE | Avalanche#2630
 
 import os, time
 
